@@ -6,6 +6,6 @@ myImage.onclick = function() {
 	if(mySrc === 'Images/Jellyfish.jpg') {
 		myImage.setAttribute('src', 'Images/Hydrangeas.jpg');
 	} else {
-		myImage.setAttribute('src', 'Image/Jellyfish.jpg');
+		myImage.setAttribute('src', 'Images/Jellyfish.jpg');
 	}
 }
